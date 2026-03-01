@@ -1,4 +1,4 @@
-![LineageOS Banner](/assets/los1.jpg)
+![LineageOS Banner](/assets/banner.jpg)
 > Welcome to RenzAlt LineageOS_ysl releases!
 
 > "Our system can make your phone look Kawaii"
